@@ -1,3 +1,4 @@
+
 const countVotes = (votes) => {
     let result = [];
     votes.forEach(vote => {
